@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name_text">Danilo Gomes</string>
+    <string name="nickname_insertion">Insert your nickname</string>
+    <string name="done">Done</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Professional in international relations and international trade.
+        \n\nSpecialized in commercial and administrative support of export processes and international development strategies of companies, mainly in the technology sector.
+        \n\nI like to solve problems and work in teams. My international experience is very useful to work with international teams in different languages.
+        \n\nI study Java and Kotlin for native development for Android, but I also intend to improve my knowledge in Javascript (React Native), Dart (Flutter) and Swift/Objective-C to develop also for IOS</string>
+</resources>
